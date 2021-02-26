@@ -1,0 +1,17 @@
+git clone url do github
+dentro de uma pasta q eu criei, irá fazer o clone e adicionar localmente
+
+git pull 
+dentro do diretório do projeto, irá atualizar seus arquivos caso esteja desatualizado 
+
+o . em git add . significa q vc enviará tudo
+
+git add segundo.txt para mandar só um arquivo para colocar em um arquivo
+
+git commit -m "criação de novo arquivo segundo.txt" para fechar esse arquivo
+
+git push para enviar esse arquivo
+
+pode colocar os arquivos do entregaveis no github na parte do projeto criado e configurado
+
+
